@@ -1,0 +1,13 @@
+.venv/
+index/
+__pycache__/
+data/*
+!data/.gitkeep
+checkpoints/
+output/
+Output/
+tmp/
+.vscode/
+.env
+.env.*
+.streamlit/secrets.toml
